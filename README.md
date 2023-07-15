@@ -51,3 +51,10 @@ As a first task, you've been asked to analyse the area-wide standardised test re
 
 # Scores by School Type
 ![image](https://github.com/JulieKent/BootCamp_pandas-challenge/assets/135008489/51731695-e1ce-4756-b4ce-b3526455d578)
+
+# Referencing
+#len code sourced and adapted from https://sparkbyexamples.com/pandas/how-to-get-pandas-count-rows-with-condition/?expand_article=1
+
+#style.format code sourced and adapted from https://betterdatascience.com/style-pandas-dataframes/
+
+#.first() code sourced and adapted from https://stackoverflow.com/questions/20067636/pandas-dataframe-get-first-row-of-each-group
